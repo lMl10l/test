@@ -1,4 +1,4 @@
-git+https://github.com/LonamiWebs/Telethon/archive/v1.zip
+telethon
 selenium
 setuptools
 wheel
@@ -75,6 +75,7 @@ ujson
 yt-dlp
 youtube_dl
 randomstuff.py
+py-tgcalls
 git+https://github.com/buddhhu/img2html.git
 git+https://github.com/alexmercerind/youtube-search-python
 git+https://github.com/sandy1709/py-googletrans
